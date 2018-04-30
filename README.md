@@ -1,8 +1,8 @@
 # Bootstrap Theme - Click
 
-[![Click Preview](https://position2.github.io/bootstraptheme/design-studio/images/template/design-studio.jpg)](https://position2.github.io/bootstraptheme/design-studio/)
+[![Click Preview](https://position2.github.io/free-bootstrap-theme-ds/images/template/design-studio.jpg)](https://position2.github.io/free-bootstrap-theme-ds/)
 
-**[Live Demo](https://position2.github.io/bootstraptheme/design-studio/)**
+**[Live Demo](https://position2.github.io/free-bootstrap-theme-ds/)**
 
 # Theme Details & Demo
 
@@ -45,4 +45,4 @@ Download the package then edit the HTML and CSS files included with the template
 
 # Copyright and License
 
-Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/bootstraptheme/blob/master/click-lp/LICENSE) license.
+Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-ds/blob/master/LICENSE) license.
