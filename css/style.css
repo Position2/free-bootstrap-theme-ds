@@ -213,7 +213,6 @@ ul, li {
 /* menu toggler style */
 #Header a.menu-trigger {
   cursor: pointer;
-  display: block;
   position: relative;
   top: 35px;
   width: 40px;
