@@ -244,6 +244,9 @@
   .navbar-nav {
     background-color: rgba(0, 0, 0, 0.5);
   }
+  #Header .site-logo-wrap .logo img {
+    width: 60px;
+  }
   /* Hero banner style */
   #HeroBanner .hero-content h1 {
     font-size: 28px;
@@ -260,7 +263,7 @@
     left: -300px;
   }
   #Header .mobile-menu ul {
-    margin-top: 85px;
+    margin-top: 100px;
   }
   /* service section style*/
   #Services .each-service {
