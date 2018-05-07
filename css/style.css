@@ -35,6 +35,9 @@ ul, li {
 	margin: 0;
 	padding: 0;
 }
+.hidden-lg-up {
+	display: none;
+}
 #MainContainer h1 {
 	font-size: 40px;
 	font-weight: bold;

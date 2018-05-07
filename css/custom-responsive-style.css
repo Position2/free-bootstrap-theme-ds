@@ -122,6 +122,9 @@
     text-align: center;
     margin: 0 0 30px;
   }
+  .hidden-lg-up {
+    display: block;
+  }
 }
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767px) {
@@ -225,6 +228,9 @@
     text-align: center;
     margin: 0 0 30px;
   }
+  .hidden-lg-up {
+    display: block;
+  }
 }
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991px) {
@@ -296,6 +302,9 @@
   }
   #ContactUs .c-detail .c-info {
     width: 92%;
+  }
+  .hidden-lg-up {
+    display: block;
   }
 }
 /*Large devices (desktops, 992px and up)*/
