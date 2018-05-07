@@ -18,7 +18,7 @@ This Bootstrap template is made by Position2 UI designer for developers and is 1
 
     Fully Responsive
     HTML5 + CSS3
-    Built on Bootstrap v4.0.0-alpha.6
+    Built on Bootstrap v4.1.1
     600+ FontAwesome icons
     Compatible with all modern browsers
 
