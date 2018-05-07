@@ -125,6 +125,9 @@
   .hidden-lg-up {
     display: block;
   }
+  .hidden-md-down {
+    display: none;
+  }
 }
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767px) {
@@ -231,6 +234,9 @@
   .hidden-lg-up {
     display: block;
   }
+  .hidden-md-down {
+    display: none;
+  }
 }
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991px) {
@@ -305,6 +311,9 @@
   }
   .hidden-lg-up {
     display: block;
+  }
+  .hidden-md-down {
+    display: none;
   }
 }
 /*Large devices (desktops, 992px and up)*/
