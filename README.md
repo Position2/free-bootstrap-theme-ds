@@ -12,7 +12,7 @@ We will update and improve the template based on user feedback so get in touch o
 
 # Author & License
 
-This Bootstrap template is made by Position2 UI designer for developers and is 100% FREE under the Creative Commons Attribution 3.0 License (CC BY 3.0)
+This Bootstrap template is made by [Position2](https://www.position2.com/) UI designer for developers and is 100% FREE under the Creative Commons Attribution 3.0 License (CC BY 3.0)
 
 # Features
 
