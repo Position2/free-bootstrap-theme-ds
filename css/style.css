@@ -363,7 +363,7 @@ ul, li {
 	transition: all 0.2s ease-in-out;
 }
 #Services .each-service:hover .service-icon {
-	background-color: transparent;
+	background-color: #ffffff;
 	border: 1px solid #0098aa;
 	transition: all 0.2s ease-in-out;
 }
