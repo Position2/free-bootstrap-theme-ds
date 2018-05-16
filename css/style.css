@@ -587,9 +587,6 @@ ul, li {
 	z-index: -1;
 	margin: 0;
 }
-#ContactUs .form-wrap .user-msg textarea {
-	height: 28px;
-}
 #ContactUs .floating-input:focus ~ label, #ContactUs .floating-input.not-empty ~ label {
 	top: -18px;
   font-size:12px;
