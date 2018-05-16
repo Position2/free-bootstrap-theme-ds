@@ -355,10 +355,21 @@ ul, li {
 	padding: 15px;
 	background-color: #0098aa;
 	border-radius: 50%;
+	transition: all 0.2s ease-in-out;
 }
 #Services .each-service .service-icon i {
 	font-size: 24px;
 	color: #fff;
+	transition: all 0.2s ease-in-out;
+}
+#Services .each-service:hover .service-icon {
+	background-color: transparent;
+	border: 1px solid #0098aa;
+	transition: all 0.2s ease-in-out;
+}
+#Services .each-service:hover .service-icon i {
+	color: #0098aa;
+	transition: all 0.2s ease-in-out;
 }
 #Services .each-service h5 {
 	margin: 0 0 10px;
