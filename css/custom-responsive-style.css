@@ -61,7 +61,7 @@
   #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap span {
+  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%); 
   }
@@ -170,7 +170,7 @@
   #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap span {
+  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }
@@ -280,7 +280,7 @@
   #Portfolio .each-portfolio .hover-cont-wrap .p-title, #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap span {
+  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }
@@ -329,7 +329,7 @@
   #Portfolio .each-portfolio .hover-cont-wrap .p-title, #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap span {
+  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }

@@ -428,7 +428,7 @@ ul, li {
 #Portfolio .each-portfolio .hover-cont-wrap .icon-div {
 	font-size: 25px;
 }
-#Portfolio .each-portfolio .hover-cont-wrap span {
+#Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
 	display: block;
 	position: relative;
 	top: 50%;
